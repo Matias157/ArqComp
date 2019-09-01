@@ -1,0 +1,58 @@
+v 4
+file . "mux_RAM_ULA.vhd" "ca112c1a8e21bcf2bf3cd100042e62f8a9afcdc6" "20181120230207.407":
+  entity mux_ram_ula at 1( 0) + 0 on 299;
+  architecture a_mux_ram_ula of mux_ram_ula at 13( 272) + 0 on 300;
+file . "RAM.vhd" "5d20aec22d5fe44dfa85f986831d0d194b0b9db6" "20181120215029.496":
+  entity ram at 1( 0) + 0 on 283;
+  architecture a_ram of ram at 14( 286) + 0 on 284;
+file . "regbranch.vhd" "15924ed48ee685157b9a3c98adb7c15cabad6a09" "20181107124018.577":
+  entity regbranch at 1( 0) + 0 on 251;
+  architecture a_regbranch of regbranch at 14( 279) + 0 on 252;
+file . "top_level_calculadora_tb.vhd" "df7e2f8cffed77a5fd4c19fee0ed7ad27a568094" "20181108185533.841":
+  entity top_level_calculadora_tb at 1( 0) + 0 on 281;
+  architecture a_top_level_calculadora_tb of top_level_calculadora_tb at 8( 125) + 0 on 282;
+file . "banco_regs.vhd" "56925b458c2524fa518d4b8f17318ff6d609ef9b" "20181031164930.443":
+  entity banco_regs at 1( 0) + 0 on 43;
+  architecture a_banco_regs of banco_regs at 18( 556) + 0 on 44;
+file . "mux2bits.vhd" "61e5bfe954f0434bb090f85f9d85201692ba50f4" "20181031164825.884":
+  entity mux2bits at 1( 0) + 0 on 35;
+  architecture a_mux2bits of mux2bits at 14( 311) + 0 on 36;
+file . "barramento.vhd" "035f31489f283c0bfd8c61374b85845b5f8ef5c0" "20181031164800.022":
+  entity barramento at 1( 0) + 0 on 31;
+  architecture a_barramento of barramento at 17( 473) + 0 on 32;
+file . "ROM.vhd" "6077711db41e513c4f31f38dbe397eb06bdb98a0" "20181205154327.306":
+  entity rom at 1( 0) + 0 on 343;
+  architecture a_rom of rom at 12( 225) + 0 on 344;
+file . "PC.vhd" "467ad7bcd5466309959bf9becbe33b97cafd2571" "20181031164650.899":
+  entity pc at 1( 0) + 0 on 19;
+  architecture a_pc of pc at 14( 283) + 0 on 20;
+file . "top_level_calculadora.vhd" "97feb1a14c69307d2d0118d96c29348cce52ce6d" "20181205155611.767":
+  entity top_level_calculadora at 1( 0) + 0 on 347;
+  architecture a_top_level_calculadora of top_level_calculadora at 15( 359) + 0 on 348;
+file . "porta.vhdl" "50678a5ceb376636590d3690d8f42da79610ce41" "20181031035356.114":
+  entity porta at 1( 0) + 0 on 11;
+  architecture a_porta of porta at 11( 149) + 0 on 12;
+file . "UC.vhd" "ec99092471495a84dcd1568b81982f0d28812566" "20181205125250.557":
+  entity uc at 1( 0) + 0 on 329;
+  architecture a_uc of uc at 22( 635) + 0 on 330;
+file . "proto_UC_jump.vhd" "9fb1ba5995a1ea6558b32aaa79b4116e9efce0ca" "20181205125239.305":
+  entity proto_uc_jump at 1( 0) + 0 on 327;
+  architecture a_proto_uc_jump of proto_uc_jump at 19( 484) + 0 on 328;
+file . "maq_estados.vhd" "1f8e0d874ae7fc71fb4316fbe1f6cba75b96db5a" "20181031225624.400":
+  entity maq_estados at 1( 0) + 0 on 79;
+  architecture a_maq_estados of maq_estados at 11( 189) + 0 on 80;
+file . "mux_copia.vhd" "15ca3b5a18b8111c621da10e362357006cc22c63" "20181031164813.289":
+  entity mux_copia at 1( 0) + 0 on 33;
+  architecture a_mux_copia of mux_copia at 14( 302) + 0 on 34;
+file . "ULA.vhd" "b55fce8e525723c34a35b9e3eae5791abd749637" "20181031164837.851":
+  entity ula at 1( 0) + 0 on 37;
+  architecture a_ula of ula at 13( 270) + 0 on 38;
+file . "reg16bits.vhd" "02e5e90ab8de1cd094d9f3db36bd87eb01078207" "20181031164924.971":
+  entity reg16bits at 1( 0) + 0 on 41;
+  architecture a_reg16bits of reg16bits at 14( 292) + 0 on 42;
+file . "flipflopzero.vhd" "4e52f0ec9733914494a365fa3d15713a5e696ae5" "20181108185252.414":
+  entity flipflopzero at 1( 0) + 0 on 277;
+  architecture a_flipflopzero of flipflopzero at 14( 258) + 0 on 278;
+file . "flipflopneg.vhd" "7902f84b6ded47e763ae33d78e639d4ff72fe310" "20181205125342.145":
+  entity flipflopneg at 1( 0) + 0 on 333;
+  architecture a_flipflopneg of flipflopneg at 14( 257) + 0 on 334;
